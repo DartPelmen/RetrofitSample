@@ -1,0 +1,1165 @@
+{
+  "externalId": {
+    "_id": "62e1afaa028619ccaf522a2b",
+    "imdb": "tt0111161"
+  },
+  "logo": {
+    "_id": "62e1afaa028619ccaf522a29",
+    "url": "https://avatars.mds.yandex.net/get-ott/1648503/2a000001705c8bf514c033f1019473a4caae/orig"
+  },
+  "poster": {
+    "_id": "6324a5d1bed82d6e1dcedff3",
+    "url": "https://st.kp.yandex.net/images/film_big/326.jpg",
+    "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_326.jpg"
+  },
+  "backdrop": {
+    "_id": "6324a5d1bed82d6e1dcedff4",
+    "url": "https//avatars.mds.yandex.net/get-ott/1672343/2a0000016b03d1f5365474a90d26998e2a9f/orig",
+    "previewUrl": "https//avatars.mds.yandex.net/get-ott/1672343/2a0000016b03d1f5365474a90d26998e2a9f/orig"
+  },
+  "rating": {
+    "_id": "6324a5d1bed82d6e1dcedff1",
+    "kp": 9.108,
+    "imdb": 9.3,
+    "filmCritics": 8.4,
+    "russianFilmCritics": null,
+    "await": null
+  },
+  "votes": {
+    "_id": "6324a5d1bed82d6e1dcedff2",
+    "kp": 857770,
+    "imdb": 2639931,
+    "filmCritics": 82,
+    "russianFilmCritics": 1,
+    "await": 2
+  },
+  "videos": {
+    "_id": "62c926228e09a010ee28ea4a",
+    "trailers": [
+      {
+        "_id": "62c926228e09a010ee28ea4b",
+        "url": "https://widgets.kinopoisk.ru/discovery/trailer/88184?onlyPlayer=1&autoplay=1&cover=1",
+        "name": "О съёмках (русские субтитры)",
+        "site": "kinopoisk_widget"
+      },
+      {
+        "_id": "62c926228e09a010ee28ea4c",
+        "url": "https://widgets.kinopoisk.ru/discovery/trailer/41133?onlyPlayer=1&autoplay=1&cover=1",
+        "name": "Трейлер №2",
+        "site": "kinopoisk_widget"
+      },
+      {
+        "_id": "62c926228e09a010ee28ea4d",
+        "url": "https://widgets.kinopoisk.ru/discovery/trailer/12799?onlyPlayer=1&autoplay=1&cover=1",
+        "name": "Трейлер (русский язык)",
+        "site": "kinopoisk_widget"
+      },
+      {
+        "_id": "62c926228e09a010ee28ea4e",
+        "url": "https://widgets.kinopoisk.ru/discovery/trailer/3548?onlyPlayer=1&autoplay=1&cover=1",
+        "name": "Трейлер (русские субтитры)",
+        "site": "kinopoisk_widget"
+      }
+    ],
+    "teasers": []
+  },
+  "budget": {
+    "_id": "6324a5d1bed82d6e1dcedff7",
+    "value": 25000000,
+    "currency": "$"
+  },
+  "fees": {
+    "world": {
+      "_id": "6324a5d1bed82d6e1dcedff9",
+      "value": 28418687,
+      "currency": "$"
+    },
+    "russia": {
+      "_id": "6324a5d1bed82d6e1dcedffa",
+      "value": 87432,
+      "currency": "$"
+    },
+    "usa": {
+      "_id": "6324a5d1bed82d6e1dcedffb",
+      "value": 28341469,
+      "currency": "$"
+    },
+    "_id": "6324a5d1bed82d6e1dcedff8"
+  },
+  "distributors": {
+    "distributor": "Иноекино",
+    "distributorRelease": "Videogram, Союз-Видео"
+  },
+  "premiere": {
+    "_id": "62f124c70f5be41246875727",
+    "country": "Канада",
+    "world": "1994-09-10T00:00:00.000Z",
+    "russia": "2019-10-24T00:00:00.000Z",
+    "cinema": "2019-10-24T00:00:00.000Z",
+    "dvd": "2011-10-20T00:00:00.000Z",
+    "bluray": "2009-08-27T00:00:00.000Z"
+  },
+  "images": {
+    "postersCount": 57,
+    "backdropsCount": 23,
+    "framesCount": 59
+  },
+  "collections": [],
+  "updateDates": [],
+  "status": "Выпущен",
+  "movieLength": 142,
+  "productionCompanies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "url": "https://www.themoviedb.org/t/p/original/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+      "previewUrl": "https://www.themoviedb.org/t/p/w500/7znWcbDd4PcJzJUlJxYqAlPPykp.png"
+    }
+  ],
+  "spokenLanguages": [
+    {
+      "name": "English",
+      "nameEn": "English"
+    }
+  ],
+  "id": 326,
+  "type": "movie",
+  "name": "Побег из Шоушенка",
+  "description": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
+  "slogan": "Страх - это кандалы. Надежда - это свобода",
+  "year": 1994,
+  "facts": [
+    {
+      "value": "Фильм снят по мотивам повести <a href=\"/name/24263/\" class=\"all\">Стивена Кинга</a> «Рита Хейуорт и спасение из Шоушенка» (Rita Hayworth and Shawshank Redemption), опубликованной в составе сборника «Четыре сезона» (Different Seasons, 1982).",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Съемки проходили в&#160;Мэнсфилдской исправительной колонии в&#160;штате Огайо. Тюрьма находилась в&#160;таком плачевном состоянии, что пришлось приводить её&#160;в&#160;должный вид.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Оригинальная повесть <a href=\"/name/24263/\" class=\"all\">Стивена Кинга</a> была, по словам самого писателя, кульминацией всех его впечатлений от различных тюремных фильмов, которые он смотрел в детстве.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "<a href=\"/name/24263/\" class=\"all\">Стивен Кинг</a> согласился продать права на&#160;свое произведение практически даром, так как с&#160;<a href=\"/name/24262/\" class=\"all\">Фрэнком</a> их&#160;связывает давняя крепкая дружба. Произошло это после того, как Фрэнк довольно успешно экранизировал рассказ Кинга &#171;<a href=\"/film/7429/\" class=\"all\">Женщина в палате</a>&#187;.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Американское общество защиты животных выступило с&#160;критикой в&#160;адрес фильма, в&#160;котором единственным представителем фауны стал ворон старика Брукса. В&#160;картине есть сцена кормления птицы червяком, найденном во&#160;время обеда в&#160;тарелке главного героя фильма. Общество настояло на&#160;том, чтобы была использована уже мертвая личинка, погибшая естественной смертью. После того как такая особь была найдена, сцену отсняли.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Роль Томми Уильямса изначально была написана под <a href=\"/name/25584/\" class=\"all\">Брэда Питта</a>.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Картина, которую смотрят заключенные, — &#171;<a href=\"/film/8299/\" class=\"all\">Гильда</a>&#187;.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Начальник тюрьмы Нортон насвистывает гимн «Eine feste Burg ist unser Gott», название которого переводится примерно так: «Могучая крепость и есть наш бог».",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Фотографии молодого <a href=\"/name/6750/\" class=\"all\">Моргана Фримана</a> на&#160;документах на&#160;самом деле являются фотографиями его сына <a href=\"/name/6767/\" class=\"all\">Альфонсо Фримана</a>, который также снялся в&#160;одном из&#160;эпизодов фильма.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Несмотря на&#160;то, что в&#160;кинотеатрах фильм не&#160;собрал больших денег, он&#160;стал одним из&#160;самых кассовых релизов на&#160;видео, а&#160;впоследствии и&#160;на&#160;DVD.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Фильм посвящён Аллену Грину (Allen Greene) — близкому другу режиссёра. Аллен скончался незадолго до выхода фильма из-за осложнений СПИДа.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Бывший начальник Мэнсфилдской тюрьмы, где проходили натурные съёмки фильма, <a href=\"/name/1104241/\" class=\"all\">Дэннис Бэйкер</a> снялся в роли пожилого заключённого, сидящего в тюремном автобусе позади Томми Уильямса.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Сценарий <a href=\"/name/24262/\" class=\"all\">Фрэнка Дарабонта</a> очень понравился другому режиссёру, успешно экранизировавшему произведения <a href=\"/name/24263/\" class=\"all\">Стивена Кинга</a>, — <a href=\"/name/5899/\" class=\"all\">Робу Райнеру</a>, постановщику &#171;<a href=\"/film/498/\" class=\"all\">Останься со мной</a>&#187; (1986) и &#171;<a href=\"/film/1574/\" class=\"all\">Мизери</a>&#187; (1990). Райнер был так захвачен материалом, что предложил Дарабонту $2,5 млн за права на сценарий и постановку фильма. Дарабонт серьёзно обдумал предложение, но в конечном счёте решил, что для него этот проект — &#171;шанс сделать что-то действительно великое&#187;, и поставил фильм сам.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "<a href=\"/name/5899/\" class=\"all\">Роб Райнер</a> видел в ролях Реда и Энди Дюфрейна соответственно <a href=\"/name/5679/\" class=\"all\">Харрисона Форда</a> и <a href=\"/name/20302/\" class=\"all\">Тома Круза</a>.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Роль Энди Дюфрейна изначально предложили <a href=\"/name/9144/\" class=\"all\">Тому Хэнксу</a>. Он очень заинтересовался, но не смог принять предложение, из-за того что уже был занят в проекте &#171;<a href=\"/film/448/\" class=\"all\">Форрест Гамп</a>&#187; (1994). Впоследствии Том Хэнкс снялся в главной роли в тюремной драме <a href=\"/name/24262/\" class=\"all\">Фрэнка Дарабонта</a> &#171;<a href=\"/film/435/\" class=\"all\">Зеленая миля</a>&#187; (1999), также поставленной по роману <a href=\"/name/24263/\" class=\"all\">Стивена Кинга</a>.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Роль Энди Дюфрейна также предлагали <a href=\"/name/24087/\" class=\"all\">Кевину Костнеру</a>, но актёр отказался от предложения, о чем впоследствии сильно жалел.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "В оригинальной повести <a href=\"/name/24263/\" class=\"all\">Стивена Кинга</a> Ред — ирландец. Несмотря на то, что в экранизации роль Реда сыграл чернокожий <a href=\"/name/6750/\" class=\"all\">Морган Фриман</a>, было решено оставить в фильме реплику Реда «Может быть, потому что я — ирландец», — как удачную шутку.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Несмотря на то что почти все жители города Мэнсфилда изъявили желание принять участие в съёмках массовых сцен фильма, большинство жителей оказались слишком заняты своей работой и не смогли сниматься. Массовку пришлось набирать в местной богадельне, причём некоторые из её обитателей были бывшими заключенными.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Когда на экране показываются крупные планы рук Энди Дюфрейна, когда в начале фильма он заряжает револьвер и когда Энди вырезает своё имя на стене камеры, — это на самом деле руки режиссёра <a href=\"/name/24262/\" class=\"all\">Фрэнка Дарабонта</a>. Эти кадры были сняты в процессе постпроизводства фильма.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Двое из заключённых Шоушенка носят имена Хейвуд и Флойд. Это отсылка к трилогии <a href=\"/name/47956/\" class=\"all\">Артура Ч. Кларка</a> «<a href=\"/film/380/\" class=\"all\">Космическая одиссея</a>», связующим героем которой является доктор Хейвуд Флойд.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Тюремный номер Энди Дюфрейна — 37927.",
+      "type": "fact",
+      "spoiler": false
+    },
+    {
+      "value": "Номер камеры Реда — 237. Эти же цифры фигурируют в обеих экранизациях романа <a href=\"/name/24263/\" class=\"all\">Стивена Кинга</a> «Сияние» (<a href=\"/film/409/\" class=\"all\">кинофильм</a> 1980 года и <a href=\"/film/94997/\" class=\"all\">мини-сериал</a> 1997 года) — там это номер комнаты отеля, в которой обитает призрак женщины. Также эти цифры появляются в фильме «<a href=\"/film/498/\" class=\"all\">Останься со мной</a>» (1986), снятом по рассказу Стивена Кинга «Тело», — там это сумма мелочи, собранной четырьмя юными героями ($2.37).",
+      "type": "fact",
+      "spoiler": true
+    },
+    {
+      "value": "На стене в камере Энди Дюфрейна появляется портрет <a href=\"/name/231298/\" class=\"all\">Альберта Эйнштейна</a>. Это намёк на то, что исполнитель роли Энди Дюфрейна <a href=\"/name/7987/\" class=\"all\">Тим Роббинс</a> параллельно снимался в романтической комедии «<a href=\"/film/7354/\" class=\"all\">Коэффициент интеллекта</a>» (1994), где одним из главных героев был Альберт Эйнштейн (в исполнении <a href=\"/name/11756/\" class=\"all\">Уолтера Мэттау</a>).",
+      "type": "fact",
+      "spoiler": true
+    }
+  ],
+  "genres": [
+    {
+      "name": "драма"
+    }
+  ],
+  "countries": [
+    {
+      "name": "США"
+    }
+  ],
+  "seasonsInfo": [],
+  "persons": [
+    {
+      "id": 24262,
+      "name": "Фрэнк Дарабонт",
+      "enName": "Frank Darabont",
+      "description": null,
+      "enProfession": "director",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24262.jpg"
+    },
+    {
+      "id": 7987,
+      "name": "Тим Роббинс",
+      "enName": "Tim Robbins",
+      "description": "Andy Dufresne",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7987.jpg"
+    },
+    {
+      "id": 6750,
+      "name": "Морган Фриман",
+      "enName": "Morgan Freeman",
+      "description": "Ellis Boyd «Red» Redding",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6750.jpg"
+    },
+    {
+      "id": 23481,
+      "name": "Боб Гантон",
+      "enName": "Bob Gunton",
+      "description": "Warden Norton",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23481.jpg"
+    },
+    {
+      "id": 24267,
+      "name": "Уильям Сэдлер",
+      "enName": "William Sadler",
+      "description": "Heywood",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24267.jpg"
+    },
+    {
+      "id": 20802,
+      "name": "Клэнси Браун",
+      "enName": "Clancy Brown",
+      "description": "Captain Hadley",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_20802.jpg"
+    },
+    {
+      "id": 8531,
+      "name": "Гил Беллоуз",
+      "enName": "Gil Bellows",
+      "description": "Tommy",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_8531.jpg"
+    },
+    {
+      "id": 47327,
+      "name": "Марк Ролстон",
+      "enName": "Mark Rolston",
+      "description": "Bogs Diamond",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_47327.jpg"
+    },
+    {
+      "id": 50162,
+      "name": "Джеймс Уитмор",
+      "enName": "James Whitmore",
+      "description": "Brooks Hatlen",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_50162.jpg"
+    },
+    {
+      "id": 24264,
+      "name": "Джеффри ДеМанн",
+      "enName": "Jeffrey DeMunn",
+      "description": "1946 D.A.",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24264.jpg"
+    },
+    {
+      "id": 63758,
+      "name": "Ларри Бранденбург",
+      "enName": "Larry Brandenburg",
+      "description": "Skeet",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_63758.jpg"
+    },
+    {
+      "id": 68803,
+      "name": "Нил Джунтоли",
+      "enName": "Neil Giuntoli",
+      "description": "Jigger",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_68803.jpg"
+    },
+    {
+      "id": 24274,
+      "name": "Брайан Либби",
+      "enName": "Brian Libby",
+      "description": "Floyd",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24274.jpg"
+    },
+    {
+      "id": 28987,
+      "name": "Дэвид Провал",
+      "enName": "David Proval",
+      "description": "Snooze",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_28987.jpg"
+    },
+    {
+      "id": 56711,
+      "name": "Джозеф Раньо",
+      "enName": "Joseph Ragno",
+      "description": "Ernie",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_56711.jpg"
+    },
+    {
+      "id": 25914,
+      "name": "Джуд Чикколелла",
+      "enName": "Jude Ciccolella",
+      "description": "Guard Mert",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_25914.jpg"
+    },
+    {
+      "id": 7363,
+      "name": "Пол МакКрейн",
+      "enName": "Paul McCrane",
+      "description": "Guard Trout",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7363.jpg"
+    },
+    {
+      "id": 102273,
+      "name": "Рени Блейн",
+      "enName": "Renee Blaine",
+      "description": "Andy Dufresne's Wife",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102273.jpg"
+    },
+    {
+      "id": 102274,
+      "name": "Скотт Манн",
+      "enName": "Scott Mann",
+      "description": "Glenn Quentin",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102274.jpg"
+    },
+    {
+      "id": 75464,
+      "name": "Джон Хортон",
+      "enName": "John Horton",
+      "description": "1946 Judge",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_75464.jpg"
+    },
+    {
+      "id": 1667952,
+      "name": "Гордон Грин",
+      "enName": "Gordon Greene",
+      "description": "1947 Parole Hearings Man (в титрах: Gordon C. Greene)",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1667952.jpg"
+    },
+    {
+      "id": 6767,
+      "name": "Альфонсо Фриман",
+      "enName": "Alfonso Freeman",
+      "description": "Fresh Fish Con",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6767.jpg"
+    },
+    {
+      "id": 23749,
+      "name": "В. Дж. Фостер",
+      "enName": "Vincent Foster",
+      "description": "Hungry Fish Con (в титрах: V.J. Foster)",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23749.jpg"
+    },
+    {
+      "id": 102276,
+      "name": "Джон Э. Саммерс",
+      "enName": "John E. Summers",
+      "description": "New Fish Guard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102276.jpg"
+    },
+    {
+      "id": 456918,
+      "name": "Фрэнк Медрано",
+      "enName": "Frank Medrano",
+      "description": "Fat Ass",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_456918.jpg"
+    },
+    {
+      "id": 24268,
+      "name": "Мак Майлз",
+      "enName": "Mack Miles",
+      "description": "Tyrell",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24268.jpg"
+    },
+    {
+      "id": 102277,
+      "name": "Алан Р. Кесслер",
+      "enName": "Alan R. Kessler",
+      "description": "Laundry Bob",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102277.jpg"
+    },
+    {
+      "id": 3271,
+      "name": "Морган Ланд",
+      "enName": "Morgan Lund",
+      "description": "Laundry Truck Driver",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3271.jpg"
+    },
+    {
+      "id": 102278,
+      "name": "Корнелл Уоллес",
+      "enName": "Cornell Wallace",
+      "description": "Laundry Leonard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102278.jpg"
+    },
+    {
+      "id": 85810,
+      "name": "Гэри Ли Дэвис",
+      "enName": "Gary Lee Davis",
+      "description": "Rooster",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_85810.jpg"
+    },
+    {
+      "id": 93068,
+      "name": "Нил Саммерс",
+      "enName": "Neil Summers",
+      "description": "Pete",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_93068.jpg"
+    },
+    {
+      "id": 23488,
+      "name": "Нед Беллами",
+      "enName": "Ned Bellamy",
+      "description": "Guard Youngblood",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23488.jpg"
+    },
+    {
+      "id": 80538,
+      "name": "Джо Пекорато",
+      "enName": "Joe Pecoraro",
+      "description": "Projectionist (в титрах: Joseph Pecoraro)",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_80538.jpg"
+    },
+    {
+      "id": 102279,
+      "name": "Харольд Э. Коуп мл.",
+      "enName": "Harold E. Cope Jr.",
+      "description": "Hole Guard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102279.jpg"
+    },
+    {
+      "id": 3470,
+      "name": "Брайан Дилейт",
+      "enName": "Brian Delate",
+      "description": "Guard Dekins",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3470.jpg"
+    },
+    {
+      "id": 6277,
+      "name": "Дон Макманус",
+      "enName": "Don McManus",
+      "description": "Guard Wiley (в титрах: Don R. McManus)",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6277.jpg"
+    },
+    {
+      "id": 102280,
+      "name": "Дональд Зинн",
+      "enName": "Donald Zinn",
+      "description": "Moresby Batter (в титрах: Donald E. Zinn)",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102280.jpg"
+    },
+    {
+      "id": 36269,
+      "name": "Дороти Сильвер",
+      "enName": "Dorothy Silver",
+      "description": "1954 Landlady",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_36269.jpg"
+    },
+    {
+      "id": 102281,
+      "name": "Роберт Хейли",
+      "enName": "Robert Haley",
+      "description": "1954 Food-Way Manager",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102281.jpg"
+    },
+    {
+      "id": 102282,
+      "name": "Дэна Снайдер",
+      "enName": "Dana Snyder",
+      "description": "1954 Food-Way Woman",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102282.jpg"
+    },
+    {
+      "id": 102283,
+      "name": "Джон Д. Крэйг",
+      "enName": "John D. Craig",
+      "description": "1957 Parole Hearings Man",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102283.jpg"
+    },
+    {
+      "id": 23042,
+      "name": "Кен Маджи",
+      "enName": "Ken Magee",
+      "description": "Ned Grimes",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23042.jpg"
+    },
+    {
+      "id": 3331347,
+      "name": "Юджин С. ДеПаскуале",
+      "enName": "Eugene C. DePasquale",
+      "description": "Mail Caller (в титрах: Eugene C. De Pasquale)",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3331347.jpg"
+    },
+    {
+      "id": 27563,
+      "name": "Билл Болендер",
+      "enName": "Bill Bolender",
+      "description": "Elmo Blatch",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_27563.jpg"
+    },
+    {
+      "id": 98379,
+      "name": "Рон Ньюэлл",
+      "enName": "Ron Newell",
+      "description": "Elderly Hole Guard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_98379.jpg"
+    },
+    {
+      "id": 102285,
+      "name": "Джон Р. Вудворд",
+      "enName": "John R. Woodward",
+      "description": "Bullhorn Tower Guard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102285.jpg"
+    },
+    {
+      "id": 102286,
+      "name": "Чак Браухлер",
+      "enName": "Chuck Brauchler",
+      "description": "Man Missing Guard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102286.jpg"
+    },
+    {
+      "id": 39088,
+      "name": "Дион Андерсон",
+      "enName": "Dion Anderson",
+      "description": "Head Bull Haig",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_39088.jpg"
+    },
+    {
+      "id": 58052,
+      "name": "Клер Слеммер",
+      "enName": "Claire Slemmer",
+      "description": "Bank Teller",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_58052.jpg"
+    },
+    {
+      "id": 10118,
+      "name": "Джеймс Кисики",
+      "enName": "James Kisicki",
+      "description": "Bank Manager",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10118.jpg"
+    },
+    {
+      "id": 36255,
+      "name": "Рон Томас",
+      "enName": "Rohn Thomas",
+      "description": "Bugle Editor",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_36255.jpg"
+    },
+    {
+      "id": 102287,
+      "name": "Чарли Кернс",
+      "enName": "Charlie Kearns",
+      "description": "1966 D.A.",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102287.jpg"
+    },
+    {
+      "id": 102288,
+      "name": "Роб Рейдер",
+      "enName": "Rob Reider",
+      "description": "Duty Guard",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102288.jpg"
+    },
+    {
+      "id": 12710,
+      "name": "Брайан Брофи",
+      "enName": "Brian Brophy",
+      "description": "1967 Parole Hearings Man",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_12710.jpg"
+    },
+    {
+      "id": 34895,
+      "name": "Пол Кеннеди",
+      "enName": "Paul Kennedy",
+      "description": "1967 Food-Way Manager",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_34895.jpg"
+    },
+    {
+      "id": 29752,
+      "name": "Джеймс Бэбсон",
+      "enName": "James Babson",
+      "description": "Con, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_29752.jpg"
+    },
+    {
+      "id": 1104241,
+      "name": "Дэннис Бэйкер",
+      "enName": "Dennis Baker",
+      "description": "Old Man on Bus, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1104241.jpg"
+    },
+    {
+      "id": 1866638,
+      "name": "Фред Калбертсон",
+      "enName": "Fred Culbertson",
+      "description": "Police Officer, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1866638.jpg"
+    },
+    {
+      "id": 27846,
+      "name": "Ричард Дун",
+      "enName": "Richard Doone",
+      "description": "Con, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_27846.jpg"
+    },
+    {
+      "id": 5389735,
+      "name": "",
+      "enName": "Shane Grove",
+      "description": "Inmate, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5389735.jpg"
+    },
+    {
+      "id": 106173,
+      "name": "Рита Хэйворт",
+      "enName": "Rita Hayworth",
+      "description": "Gilda Mundson Farrell, хроника, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_106173.jpg"
+    },
+    {
+      "id": 102289,
+      "name": "Дэвид Хехт",
+      "enName": "David Hecht",
+      "description": "Bank Teller, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102289.jpg"
+    },
+    {
+      "id": 33144,
+      "name": "Алонсо Ф. Джонс",
+      "enName": "Alonzo F. Jones",
+      "description": "Inmate, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_33144.jpg"
+    },
+    {
+      "id": 3422395,
+      "name": "Гари Джонс",
+      "enName": "Gary Jones",
+      "description": "Convict, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3422395.jpg"
+    },
+    {
+      "id": 456211,
+      "name": "Сержиу Като",
+      "enName": "Sergio Kato",
+      "description": "Inmate II, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_456211.jpg"
+    },
+    {
+      "id": 37935,
+      "name": "Майкл Лайтси",
+      "enName": "Michael Lightsey",
+      "description": "Con, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_37935.jpg"
+    },
+    {
+      "id": 186862,
+      "name": "Джордж Макреди",
+      "enName": "George Macready",
+      "description": "Ballin Mundson, хроника, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_186862.jpg"
+    },
+    {
+      "id": 3490100,
+      "name": "Крис Пейдж",
+      "enName": "Christopher Page",
+      "description": "Traffic (driver), в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3490100.jpg"
+    },
+    {
+      "id": 4024080,
+      "name": "Нил Ридэуэй",
+      "enName": "Neil Riddaway",
+      "description": "Con, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4024080.jpg"
+    },
+    {
+      "id": 79727,
+      "name": "Брэд Спенсер",
+      "enName": "Brad Spencer",
+      "description": "1957 Parole Hearings Guard, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_79727.jpg"
+    },
+    {
+      "id": 102291,
+      "name": "Джодива Степп",
+      "enName": "Jodiviah Stepp",
+      "description": "New Fish Con, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102291.jpg"
+    },
+    {
+      "id": 5651390,
+      "name": "",
+      "enName": "Mark A. Strain",
+      "description": "Yard Inmate, в титрах не указан",
+      "enProfession": "actor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5651390.jpg"
+    },
+    {
+      "id": 102292,
+      "name": "Лиз Глоцер",
+      "enName": "Liz Glotzer",
+      "description": "исполнительный продюсер",
+      "enProfession": "producer",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102292.jpg"
+    },
+    {
+      "id": 25906,
+      "name": "Дэвид В. Лестер",
+      "enName": "David V. Lester",
+      "description": "исполнительный продюсер",
+      "enProfession": "producer",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_25906.jpg"
+    },
+    {
+      "id": 102293,
+      "name": "Ники Марвин",
+      "enName": "Niki Marvin",
+      "description": "продюсер (produced by)",
+      "enProfession": "producer",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102293.jpg"
+    },
+    {
+      "id": 1781077,
+      "name": "Диомид Виноградов",
+      "enName": "",
+      "description": "Sony Turbo",
+      "enProfession": "voice_director",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1781077.jpg"
+    },
+    {
+      "id": 6507406,
+      "name": "Андрей Абакумов",
+      "enName": "",
+      "description": "IVI",
+      "enProfession": "voice_director",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6507406.jpg"
+    },
+    {
+      "id": 4521580,
+      "name": "Михаил Ягодкин",
+      "enName": "",
+      "description": "IVI",
+      "enProfession": "translator",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4521580.jpg"
+    },
+    {
+      "id": 24263,
+      "name": "Стивен Кинг",
+      "enName": "Stephen King",
+      "description": "роман",
+      "enProfession": "writer",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24263.jpg"
+    },
+    {
+      "id": 24262,
+      "name": "Фрэнк Дарабонт",
+      "enName": "Frank Darabont",
+      "description": null,
+      "enProfession": "writer",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24262.jpg"
+    },
+    {
+      "id": 258609,
+      "name": "Роджер Дикинс",
+      "enName": "Roger Deakins",
+      "description": null,
+      "enProfession": "operator",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_258609.jpg"
+    },
+    {
+      "id": 608629,
+      "name": "Томас Ньюман",
+      "enName": "Thomas Newman",
+      "description": null,
+      "enProfession": "composer",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_608629.jpg"
+    },
+    {
+      "id": 137866,
+      "name": "Теренс Марш",
+      "enName": "Terence Marsh",
+      "description": "постановщик",
+      "enProfession": "design",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_137866.jpg"
+    },
+    {
+      "id": 5838509,
+      "name": "",
+      "enName": "Soheil",
+      "description": "постановщик",
+      "enProfession": "design",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5838509.jpg"
+    },
+    {
+      "id": 1998853,
+      "name": "Питер Лэндсдаун Смит",
+      "enName": "Peter Landsdown Smith",
+      "description": null,
+      "enProfession": "design",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1998853.jpg"
+    },
+    {
+      "id": 1999152,
+      "name": "Элизабет МакБрайд",
+      "enName": "Elizabeth McBride",
+      "description": "по костюмам",
+      "enProfession": "design",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1999152.jpg"
+    },
+    {
+      "id": 1997462,
+      "name": "Майкл Сейртон",
+      "enName": "Michael Seirton",
+      "description": "по декорациям",
+      "enProfession": "design",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1997462.jpg"
+    },
+    {
+      "id": 1986116,
+      "name": "Ричард Фрэнсис-Брюс",
+      "enName": "Richard Francis-Bruce",
+      "description": null,
+      "enProfession": "editor",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1986116.jpg"
+    }
+  ],
+  "lists": [],
+  "typeNumber": 1,
+  "alternativeName": "The Shawshank Redemption",
+  "enName": null,
+  "names": [
+    {
+      "name": "Побег из Шоушенка"
+    },
+    {
+      "name": "The Shawshank Redemption"
+    }
+  ],
+  "updatedAt": "2022-09-16T16:35:29.656Z",
+  "ratingMpaa": "r",
+  "shortDescription": "Несправедливо осужденный банкир готовит побег из тюрьмы. Тим Роббинс в выдающейся экранизации Стивена Кинга",
+  "technology": {
+    "_id": "62e1afaa028619ccaf522a31",
+    "hasImax": false,
+    "has3D": false
+  },
+  "ticketsOnSale": false,
+  "sequelsAndPrequels": [
+    {
+      "_id": "62ebf234b252103987f43014"
+    }
+  ],
+  "similarMovies": [
+    {
+      "_id": "62f124c70f5be41246875729",
+      "id": 435,
+      "name": "Зеленая миля",
+      "enName": "The Green Mile",
+      "alternativeName": "The Green Mile",
+      "poster": {
+        "_id": "62f124c70f5be4124687572a",
+        "url": "https://st.kp.yandex.net/images/film_big/435.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_435.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be4124687572b",
+      "id": 336,
+      "name": "Пролетая над гнездом кукушки",
+      "enName": "One Flew Over the Cuckoo's Nest",
+      "alternativeName": "One Flew Over the Cuckoo's Nest",
+      "poster": {
+        "_id": "62f124c70f5be4124687572c",
+        "url": "https://st.kp.yandex.net/images/film_big/336.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_336.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be4124687572d",
+      "id": 258048,
+      "name": "Побег",
+      "enName": "Prison Break",
+      "alternativeName": "Prison Break",
+      "poster": {
+        "_id": "62f124c70f5be4124687572e",
+        "url": "https://st.kp.yandex.net/images/film_big/258048.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_258048.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be4124687572f",
+      "id": 468958,
+      "name": "Три дня на побег",
+      "enName": "The Next Three Days",
+      "alternativeName": "The Next Three Days",
+      "poster": {
+        "_id": "62f124c70f5be41246875730",
+        "url": "https://st.kp.yandex.net/images/film_big/468958.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_468958.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be41246875731",
+      "id": 4525,
+      "name": "Мотылек",
+      "enName": "Papillon",
+      "alternativeName": "Papillon",
+      "poster": {
+        "_id": "62f124c70f5be41246875732",
+        "url": "https://st.kp.yandex.net/images/film_big/4525.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_4525.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be41246875733",
+      "id": 10851,
+      "name": "Побег из Алькатраса",
+      "enName": "Escape from Alcatraz",
+      "alternativeName": "Escape from Alcatraz",
+      "poster": {
+        "_id": "62f124c70f5be41246875734",
+        "url": "https://st.kp.yandex.net/images/film_big/10851.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_10851.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be41246875735",
+      "id": 463686,
+      "name": "План побега",
+      "enName": "Escape Plan",
+      "alternativeName": "Escape Plan",
+      "poster": {
+        "_id": "62f124c70f5be41246875736",
+        "url": "https://st.kp.yandex.net/images/film_big/463686.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_463686.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be41246875737",
+      "id": 7687,
+      "name": "Полуночный экспресс",
+      "enName": "Midnight Express",
+      "alternativeName": "Midnight Express",
+      "poster": {
+        "_id": "62f124c70f5be41246875738",
+        "url": "https://st.kp.yandex.net/images/film_big/7687.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_7687.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be41246875739",
+      "id": 4914,
+      "name": "Ураган",
+      "enName": "The Hurricane",
+      "alternativeName": "The Hurricane",
+      "poster": {
+        "_id": "62f124c70f5be4124687573a",
+        "url": "https://st.kp.yandex.net/images/film_big/4914.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_4914.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be4124687573b",
+      "id": 77275,
+      "name": "Бангкок Хилтон",
+      "enName": "Bangkok Hilton",
+      "alternativeName": "Bangkok Hilton",
+      "poster": {
+        "_id": "62f124c70f5be4124687573c",
+        "url": "https://st.kp.yandex.net/images/film_big/77275.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_77275.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be4124687573d",
+      "id": 395756,
+      "name": "Преступник",
+      "enName": "Felon",
+      "alternativeName": "Felon",
+      "poster": {
+        "_id": "62f124c70f5be4124687573e",
+        "url": "https://st.kp.yandex.net/images/film_big/395756.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_395756.jpg"
+      }
+    },
+    {
+      "_id": "62f124c70f5be4124687573f",
+      "id": 436502,
+      "name": "Пророк",
+      "enName": "Un prophète",
+      "alternativeName": "Un prophète",
+      "poster": {
+        "_id": "62f124c70f5be41246875740",
+        "url": "https://st.kp.yandex.net/images/film_big/436502.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_436502.jpg"
+      }
+    }
+  ],
+  "imagesInfo": {
+    "_id": "626f8117593f2bfbc312596b",
+    "framesCount": 59
+  },
+  "ageRating": null,
+  "watchability": {
+    "_id": "6324a5d1bed82d6e1dcedffc",
+    "items": [
+      {
+        "_id": "6324a5d1bed82d6e1dcedffd",
+        "name": "IVI",
+        "logo": {
+          "_id": "6324a5d1bed82d6e1dcedffe",
+          "url": "https//avatars.mds.yandex.net/get-ott/1672343/a8dc1dd4-e7b2-4984-ad33-242b79cb5307/orig"
+        },
+        "url": "https://www.ivi.ru/watch/87706?utm_source=yandex&utm_medium=wizard"
+      },
+      {
+        "_id": "6324a5d1bed82d6e1dcedfff",
+        "name": "viju",
+        "logo": {
+          "_id": "6324a5d1bed82d6e1dcee000",
+          "url": "https//avatars.mds.yandex.net/get-ott/224348/8b10c84b-e1bb-4493-9bc4-6ee56554403a/orig"
+        },
+        "url": "https://viju.ru/filmy/pobeg-iz-shoushenka?utm_campaign=yandex_content_integration&utm_medium=affiliate&utm_source=yandex"
+      }
+    ]
+  },
+  "createDate": "2022-09-18T23:04:13.766Z"
+}
